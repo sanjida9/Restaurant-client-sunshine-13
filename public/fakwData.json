@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Long Beach Suites Dhaka",
+    "price": "5000",
+    "compliments": "Very Good",
+    "img": "https://i.ibb.co/ZTJPMZ5/Screenshot-21.jpg",
+    "district": "Dhaka",
+    "rating": "4.9"
+  },
+  {
+    "name": "Empyrean Hotel",
+    "price": "3000",
+    "compliments": "Excellent",
+    "img": "https://i.ibb.co/bF3tFgT/Screenshot-22.jpg",
+    "district": "Dhaka",
+    "rating": "5"
+  },
+  {
+    "name": "Rafflesia Serviced Apartments",
+    "price": "4500",
+    "compliments": "Good",
+    "img": "https://i.ibb.co/ZTJPMZ5/Screenshot-21.jpg",
+    "district": "Dhaka",
+    "rating": "4.5"
+  },
+  {
+    "name": "Hotel 71",
+    "price": "6000",
+    "compliments": "Very Good",
+    "img": "https://i.ibb.co/rZXd4Vc/21860203.webp",
+    "district": "Dhaka",
+    "rating": "4.9"
+  },
+  {
+    "name": "Hotel Shuktara",
+    "price": "3300",
+    "compliments": "Excellent",
+    "img": "https://i.ibb.co/MVTwy19/187595965.webp",
+    "district": "Dhaka",
+    "rating": "5"
+  },
+  {
+    "name": "Hotel Agrabad Limited",
+    "price": "2000",
+    "compliments": "Excellent",
+    "img": "https://i.ibb.co/W3G97ss/283482066.webp",
+    "district": "Chattogram",
+    "rating": "5"
+  },
+  {
+    "name": "Hotel Hilton City",
+    "price": "1300",
+    "compliments": "Good",
+    "img": "https://i.ibb.co/7v75byN/282473328.webp",
+    "district": "Chattogram",
+    "rating": "4.3"
+  },
+  {
+    "name": "Hotel Diamond Park",
+    "price": "3300",
+    "compliments": "Very Good",
+    "img": "https://i.ibb.co/nDgTZ5y/81850730.webp",
+    "district": "Chattogram",
+    "rating": "4.9"
+  },
+  {
+    "name": "Radisson Blu Chattogram Bay View",
+    "price": "6300",
+    "compliments": "Excellent",
+    "img": "https://i.ibb.co/hWYjBhg/232841012.webp",
+    "district": "Chattogram",
+    "rating": "5"
+  },
+  {
+    "name": "White Park Boutique Hotel",
+    "price": "3000",
+    "compliments": "Good",
+    "img": "https://i.ibb.co/dj8M3Ng/293864841.webp",
+    "district": "Chattogram",
+    "rating": "4.5"
+  },
+  {
+    "name": "The Grand Hotel BD",
+    "price": "3000",
+    "compliments": "Good",
+    "img": "https://i.ibb.co/bJRV6DK/231300083.webp",
+    "district": "Sylhet",
+    "rating": "4.5"
+  },
+  {
+    "name": "Hotel Noorjahan Grand",
+    "price": "4000",
+    "compliments": "Excellent",
+    "img": "https://i.ibb.co/0q1zHdk/288354388.webp",
+    "district": "Sylhet",
+    "rating": "5"
+  },
+  {
+    "name": "Hotel Supreme",
+    "price": "3500",
+    "compliments": "Very Good",
+    "img": "https://i.ibb.co/nLtY7Pj/126972234.webp",
+    "district": "Sylhet",
+    "rating": "4.9"
+  },
+  {
+    "name": "Hotel Metro International",
+    "price": "2800",
+    "compliments": "Excellent",
+    "img": "https://i.ibb.co/TRvXZWS/216645189.webp",
+    "district": "Sylhet",
+    "rating": "5"
+  },
+  {
+    "name": "Royal Palm Hotel",
+    "price": "4500",
+    "compliments": "Very Good",
+    "img": "https://i.ibb.co/nsgb0qC/233926893.webp",
+    "district": "Sylhet",
+    "rating": "4.9"
+  },
+  {
+    "name": "Tiger Garden Int Hotel",
+    "price": "4500",
+    "compliments": "Excellent",
+    "img": "https://i.ibb.co/tP2YhsG/117212776.webp",
+    "district": "Khulna",
+    "rating": "5"
+  },
+  {
+    "name": "Jatra Flagship Khulna City Centre",
+    "price": "4500",
+    "compliments": "Very Good",
+    "img": "https://i.ibb.co/YyhRFhN/296364525.webp",
+    "district": "Khulna",
+    "rating": "4.9"
+  },
+  {
+    "name": "Khulna River view Private Guest House",
+    "price": "4500",
+    "compliments": "Excellent",
+    "img": "https://i.ibb.co/vmsqyxM/324407022.webp",
+    "district": "Khulna",
+    "rating": "5"
+  },
+  {
+    "name": "Pushpo bilash hotel",
+    "price": "2000",
+    "compliments": "Good",
+    "img": "https://i.ibb.co/5KwxKcX/281323661.webp",
+    "district": "Khulna",
+    "rating": "4.3"
+  },
+  {
+    "name": "Opens in new window",
+    "price": "4500",
+    "compliments": "Very Good",
+    "img": "https://i.ibb.co/j5w1QMY/318664864.webp",
+    "district": "Khulna",
+    "rating": "4.9"
+  },
+  {
+    "name": "Little Rangpur Inn",
+    "price": "4500",
+    "compliments": "Excellent",
+    "img": "https://i.ibb.co/xLnXw06/139360211.webp",
+    "district": "Rangpur",
+    "rating": "5"
+  },
+  {
+    "name": "Grand Palace Hotel & Resorts Rangpur",
+    "price": "2000",
+    "compliments": "Good",
+    "img": "https://i.ibb.co/qdwhf0X/142076687.webp",
+    "district": "Rangpur",
+    "rating": "4.3"
+  },
+  {
+    "name": "Hotel Star International",
+    "price": "5000",
+    "compliments": "Very Good",
+    "img": "https://i.ibb.co/v1HbKPh/267599734.webp",
+    "district": "Rājshāhi",
+    "rating": "4.9"
+  },
+  {
+    "name": "Jatra Flagship Rajshahi City Centre",
+    "price": "3000",
+    "compliments": "Excellent",
+    "img": "https://i.ibb.co/Fz4VQmJ/296361524.webp",
+    "district": "Rājshāhi",
+    "rating": "5"
+  },
+  {
+    "name": "Hotel Greencity International",
+    "price": "4500",
+    "compliments": "Good",
+    "img": "https://i.ibb.co/5vLkm2z/323429271.webp",
+    "district": "Rājshāhi",
+    "rating": "4.5"
+  },
+  {
+    "name": "Grand River View Hotel",
+    "price": "6000",
+    "compliments": "Very Good",
+    "img": "https://i.ibb.co/MB7JBqG/318710388.webp",
+    "district": "Rājshāhi",
+    "rating": "4.9"
+  }
+]
