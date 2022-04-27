@@ -71,7 +71,7 @@ const PlaceOrder = () => {
             <Rating
               emptySymbol="fa fa-star-o fa-2x"
               fullSymbol="fa fa-star fa-2x"
-              initialRating={singleFood.review}
+              initialRating={singleFood.rating}
               readonly
               className="text-warning fs-5"
             />

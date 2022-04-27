@@ -87,7 +87,7 @@ const ManageProducts = () => {
                           </td>
                           <td>
                             <div className="text-sm text-gray-900">
-                              {product.review}
+                              {product.rating}
                             </div>
                           </td>
                           <td>

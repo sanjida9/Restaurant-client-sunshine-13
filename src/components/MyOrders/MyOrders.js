@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import useAuth from "../../hooks/useAuth";
+import { Link } from "react-router-dom";
 
 const MyOrders = () => {
   const [deleteCount, setDeleteCount] = useState(0);
@@ -44,6 +45,7 @@ const MyOrders = () => {
               <th scope="col">PRODUCT NAME</th>
               <th scope="col">TOTAL COSTS</th>
               <th scope="col">QUANTITY</th>
+              <th scope="col">PAYMENT</th>
               <th scope="col">STATUS</th>
               <th scope="col">DELETE</th>
             </tr>
@@ -63,10 +65,19 @@ const MyOrders = () => {
                 <th>{order.ordered?.name}</th>
                 <th>{order.totalCost}</th>
                 <th>{order.shippingInfo.quantity}</th>
-                <td>{order.status}</td>
+                <th>
+                  {order?.payment ? (
+                    <span className="text-success">Paid</span>
+                  ) : (
+                    <Link to={`/dashboard/pay/${order?._id}`}>
+                      <button className="btn btn-secondary">Pay</button>
+                    </Link>
+                  )}
+                </th>
+                <td>{order?.status}</td>
                 <td>
                   <button
-                    onClick={() => handleDeleteOrder(order._id)}
+                    onClick={() => handleDeleteOrder(order?._id)}
                     className="btn btn-danger"
                   >
                     Delete

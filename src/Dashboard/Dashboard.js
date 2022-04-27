@@ -180,7 +180,7 @@ const Dashboard = () => {
             <UserRoute path={`${path}/home`}>
               <Home></Home>
             </UserRoute>
-            <UserRoute path={`${path}/pay`}>
+            <UserRoute path={`${path}/pay/:orderId`}>
               <Pay></Pay>
             </UserRoute>
             <UserRoute path={`${path}/review`}>
