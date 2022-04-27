@@ -22,11 +22,11 @@ const CheckoutForm = ({ price, _id, totalCost }) => {
       headers: {
         "content-type": "application/json",
       },
-      body: JSON.stringify({ price }),
+      body: JSON.stringify({ totalCost }),
     })
       .then((res) => res.json())
       .then((data) => setClientSecret(data.clientSecret));
-  }, [price]);
+  }, [totalCost]);
 
   //   useEffect(() => {
   //     axios
